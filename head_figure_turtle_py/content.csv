@@ -1,0 +1,4 @@
+File_name,Description
+crop_resize_head.ipynb,Python code to crop and resize schematic head figures. Pillow library is needed.
+compose.ipynb,"Python code to compose the publication figures, graphs made with R + schematic head with BCD. Pillow library is needed."
+head_drawn.ipynb,"Python code to drawn a schematic head with BCD, headband, and speakers. Turtle library is needed."
