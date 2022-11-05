@@ -1,0 +1,18 @@
+,File_name,Description
+0,AC_sensation_levels.ipynb,"Calculation of AC-path Sensation Levels (SL), for every single patient"
+1,AC_thresholds.ipynb,"Calculation (log interpolation) of AC-thresholds per 1/3 octave band, for every single patient"
+2,BCdirect_thresholds_third_octave_interpolation.ipynb,"Calculation (log interpolation) of BC-direct-thresholds per 1/3 octave band, for every single patient"
+3,Bone_conduction_sensation_level.ipynb,"Calculation of BC-path Sensation Levels, for every single patient"
+4,Compression_ratio_BCD.ipynb,"Calculation of Compression Ratio (CR), for every single patient"
+5,Difference_sensation_level.ipynb,"Calculation of the SL difference (BC – AC Sensation Levels), for every single patient"
+6,SII_calculation_S_bcd_side_silence.ipynb,"Calculation of SII and CVC-score, in de condition S at BCD-side in silence, for every single patient"
+7,SII_calculation_S_best ear_silence.ipynb,"Calculation of SII and CVC-score, in de condition S at best-ear-side in silence, for every single patient"
+8,SII_calculation_S_front_silence.ipynb,"Calculation of SII and CVC-score, in de condition S in front in silence, for every single patient"
+9,SII_calculation_S65_bcd_side_N65_best_ear_side.ipynb,"Calculation of SII and CVC-score, in de condition S at BCD-side and N at best-ear-side (both 65 dB), for every single patient"
+10,SII_calculation_S65_bcd_side_N65_front.ipynb,"Calculation of SII and CVC-score, in de condition S at BCD-side and N in front (both 65 dB), for every single patient"
+11,SII_calculation_S65_best ear_N65_bcd_side.ipynb,"Calculation of SII and CVC-score, in de condition S at best-ear-side and N at BCD-side (both 65 dB), for every single patient"
+12,SII_calculation_S65_best ear_N65_front.ipynb,"Calculation of SII and CVC-score, in de condition S at best-ear-side and N in front (both 65 dB), for every single patient"
+13,SII_calculation_S65_front_N65_bcd_side.ipynb,"Calculation of SII and CVC-score, in de condition S in front and N at BCD-side (both 65 dB), for every single patient"
+14,SII_calculation_S65_front_N65_best_ear_side.ipynb,"Calculation of SII and CVC-score, in de condition S in front and N at best-ear-side (both 65 dB), for every single patient"
+15,SII_calculation_S65_front_N65_front.ipynb,"Calculation of SII and CVC-score, in de condition S in front and N in front (both 65 dB), for every single patient"
+16,versions.ipynb,Program to check for the verion of python and related packages

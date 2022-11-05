@@ -1,0 +1,22 @@
+,File_name,Description
+0,CVC_Sbcd_Nbest.ipynb,Swarm plot of CVC-score for the three sound-paths in de condition with S at BCD-side and N at the best-ear-side (S & N ISTS 65 dB)
+1,CVC_Sbcd_Nfront.ipynb,Swarm plot of CVC-score for the three sound-paths in de condition with S at BCD-side and N in front (S & N ISTS 65 dB)
+2,CVC_Sbcd_Nnone.ipynb,Swarm plot of CVC-score for the three sound-paths in de condition in silence with S at BCD-side (S = ISTS 65 dB)
+3,CVC_Sbest_Nbcd.ipynb,Swarm plot of CVC-score for the three sound-paths in de condition with S at best-ear-side and N in front (S & N ISTS 65 dB)
+4,CVC_Sbest_Nfront.ipynb,Swarm plot of CVC-score for the three sound-paths in de condition in silence with S at the best-ear-side (S = ISTS 65 dB)
+5,CVC_Sbest_Nnone.ipynb,Swarm plot of CVC-score for the three sound-paths in de condition with S at best-ear-side and N at the BCD-side (S & N ISTS 65 dB)
+6,CVC_Sfront_Nbcd.ipynb,Swarm plot of CVC-score for the three sound-paths in de condition with S at in front and N at the best-ear-side (S & N ISTS 65 dB)
+7,CVC_Sfront_Nbest.ipynb,Swarm plot of CVC-score for the three sound-paths in de condition with S at in front and N in front (S & N ISTS 65 dB)
+8,CVC_Sfront_Nfront.ipynb,Swarm plot of CVC-score for the three sound-paths in de condition in silence with S at in front  (S = ISTS 65 dB)
+9,CVC_Sfront_Nnone.ipynb,Swarm plot of CVC-score for the three sound-paths in de condition with S at in front and N at the BCD-side (S & N ISTS 65 dB)
+10,Diff_SL_Sbcd_blue.ipynb,"Line plot with P10, P50, P90 of Difference Sensation Level (BC SL – AC SL) in de condition in silence with S at BCD-side (S = ISTS 65 dB)"
+11,Diff_SL_Sbcd.ipynb,"Line plot with P10, P50, P90 of Difference Sensation Level (BC SL – AC SL) in de condition in silence with S at BCD-side (S = ISTS 65 dB)"
+12,Diff_SL_Sbest_grey.ipynb,"Line plot with P10, P50, P90 of Difference Sensation Level (BC SL – AC SL) in de condition in silence with S at best-ear-side (S = ISTS 65 dB)"
+13,Diff_SL_Sbest.ipynb,"Line plot with P10, P50, P90 of Difference Sensation Level (BC SL – AC SL) in de condition in silence with S at best-ear-side (S = ISTS 65 dB)"
+14,Diff_SL_Sfront_grey.ipynb,"Line plot with P10, P50, P90 of Difference Sensation Level (BC SL – AC SL) in de condition in silence with S in front (S = ISTS 65 dB)"
+15,Diff_SL_Sfront.ipynb,"Line plot with P10, P50, P90 of Difference Sensation Level (BC SL – AC SL) in de condition in silence with S in front (S = ISTS 65 dB)"
+16,Output_violin_with_box.ipynb,"Violin plot with bx and whisker of Ouput Force Levels, measured on the skull-simulator with input ISTS 65 dB"
+17,Output_violin.ipynb,"Violin plot of Ouput Force Levels, measured on the skull-simulator with input ISTS 65 dB"
+18,Usage_BCD_CROS.ipynb,Swarm / Box plot of usage BCD versus CROS
+19,Usage_BCD.ipynb,Swarm / Box plot of usage BCD
+20,version.ipynb,version of R used to make the plots

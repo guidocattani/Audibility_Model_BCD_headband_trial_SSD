@@ -1,0 +1,26 @@
+An Audibility Model of the Headband Trial with a Bone Conduction Device in Single-sided Deaf Subjects
+
+Guido Cattani
+Koenraad S. Rhebergen
+Adriana L. Smit
+
+Corresponding author:
+Adriana L. Smit
+Department of Otorhinolaryngology and Head & Neck Surgery
+University Medical Center Utrecht
+House Postal Number G05.129
+PO BOX 85500, 3508 GA
+Utrecht, The Netherlands
+Tel: +31 88 75 56644
+E-mail: A.L.Smit-9@umcutrecht.nl
+
+
+Abstract
+Objective 
+We modelled the head-shadow-effect compensation and speech understanding outcomes in single-sided deafened (SSD) subjects fitted during headband trial with a bone conduction device (BCD). 
+Design
+In this retrospective study, the participants’ BCD settings were used for measurements on the skull simulator. The sensation levels of the Bone-Conduction and Air-Conduction sound paths were compared, modelling three spatial conditions with speech in quiet. Full head-shadow-effect compensation occurred when the difference between sensation levels was equivalent of greater than zero. We calculated the phoneme-score using the Speech Intelligibility Index for the three conditions in quiet and, additionally, for seven conditions with speech and noise from different directions. 
+Study sample 
+Data from eighty-five SSD adults fitted with a BCD during headband trial period. 
+Results 
+According to our model, most subjects did not reach a full head-shadow-effect compensation with the signal at the BCD-side and in front. The modelled  speech understanding in quiet did not improve with the transcutaneous BCD compared to the unaided condition. In noise, we found a slight improvement in some specific conditions and minimal worsening in others. 

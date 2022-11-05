@@ -1,0 +1,21 @@
+Dear Reader,
+
+In this document you can read how to use the code.
+You can find the data of the related study in the repository zenodo.org under project "An Audibility Model of the Bone Conduction Device during Headband Trial in Single-sided Deaf Subjects."
+
+The code is provided in 2 different flavors: .ipynb and .html.
+If you want just to consult the code, it is best to use the html format. The html files provide also results, tables, and graphs.
+If you want to run the code, you have to use the ipynb files in the jupyter notebook (https://jupyter.org).
+Beside python and R, you will need different libraries. See the list in the file "Code_packages_version".
+For this purpose, you may consider the installation of the anaconda platform (https://www.anaconda.com).
+To get the code working properly, you have to set the input and output file paths according to your operating system and map tree. The code is written for use with xsls files. If you like to use csv files, you have to adapt the code.
+
+In the spirit of open science, you may use this data in accordance with the MIT license.
+
+For any question, suggestion or comment, don't esitate to take contact.
+
+Thank you in advance for your attention and collaboration.
+
+Guido Cattani
+guidocattani@gmail.com
+
